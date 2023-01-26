@@ -1,5 +1,3 @@
-# Ji Seungmin
-
 ## BackEnd
 * [Fosslight](https://www.notion.so/Fosslight-Hub-c7259bb3917346fbaa8d51c1c89fb946)
 
