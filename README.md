@@ -1,5 +1,5 @@
 ## BackEnd
-* [Fosslight](https://www.notion.so/Fosslight-Hub-c7259bb3917346fbaa8d51c1c89fb946)
+* [Fosslight](https://j-fosslight.notion.site/Fosslight-Hub-c7259bb3917346fbaa8d51c1c89fb946)
 
 ## FrontEnd
 * [Approval Please](https://github.com/approval-please/approval-please-Android)
