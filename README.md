@@ -1,5 +1,5 @@
 ## Profile
-[Activities](https://j-fosslight.notion.site/Profile-45ddb61db2944f56839205dd21fc37dc)
+[Activities](https://j-j-j-j-j.notion.site/Profile-45ddb61db2944f56839205dd21fc37dc)
 
 ## Algorithm
 [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eheh02" width="280" height="140"/>](https://solved.ac/eheh02/)
