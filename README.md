@@ -1,4 +1,4 @@
-## Profile
+## Intro
 [Activities](https://jseungmin.notion.site/Profile-45ddb61db2944f56839205dd21fc37dc)
 
 ## Algorithm
