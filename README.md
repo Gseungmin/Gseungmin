@@ -1,10 +1,6 @@
 ## Profile
 [blog](https://velog.io/@jism0211)
 
-## Portfolio
-* [FosslightHub (OSSCA 2022 & 2023)](https://github.com/Gseungmin/Gseungmin/files/13670602/default.pdf)
-* [AlgoITNi (Naver BoostCamp)](https://github.com/Gseungmin/Gseungmin/files/13670586/1.pdf)
-
 ## Activity
 
 * Open Source Contribution 2022 Fosslight Hub Mentee
