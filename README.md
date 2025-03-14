@@ -1,6 +1,3 @@
-## Profile
-[blog](https://velog.io/@jism0211)
-
 ## Activity
 
 * Open Source Contribution 2022 Fosslight Hub Mentee
