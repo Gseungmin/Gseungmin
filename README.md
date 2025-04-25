@@ -5,6 +5,8 @@
 
 - 캐시 + 버전관리로 성능 최적화 [깃허브](https://github.com/Gseungmin/agent-api-server) [문서화](https://jseungmin.notion.site/1dfe2fd91ae280be85d2f2e11db2e8b0?pvs=4)
 
+- 캐시 이중화로 서버 안정성 구축 [깃허브](https://github.com/Gseungmin/agent-api-server) [문서화](https://jseungmin.notion.site/1e0e2fd91ae2802aace6e66bd7d76d2a?pvs=4)
+
 - 인가서버가 분리되어있을때 토큰 관리 [깃허브](https://github.com/Gseungmin/agent-api-server) [문서화](https://jseungmin.notion.site/LLM-1dde2fd91ae28033a09bf009beea49e4?pvs=4)
 
 ## Activity
