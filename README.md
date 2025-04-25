@@ -1,3 +1,12 @@
+## Project
+- 레디스 메시지큐 + ACK 패턴을 활용한 데이터 동기화 [임시 깃허브](https://github.com/Gseungmin/naver-submit-lubdate) [문서화](https://jseungmin.notion.site/1b0e2fd91ae280ed9a19e80d486f1d13?pvs=4)
+
+- 비트 연산을 통한 커플 코드 생성 성능 개선 [임시 깃허브](https://github.com/Gseungmin/naver-submit-lubdate) [문서화](https://jseungmin.notion.site/1afe2fd91ae28091a31bedecbe5cd92a?pvs=4)
+
+- 캐시 + 버전관리로 성능 최적화 [깃허브](https://github.com/Gseungmin/agent-api-server) [문서화](https://jseungmin.notion.site/1dfe2fd91ae280be85d2f2e11db2e8b0?pvs=4)
+
+- 인가서버가 분리되어있을때 토큰 관리 [깃허브](https://github.com/Gseungmin/agent-api-server) [문서화](https://jseungmin.notion.site/LLM-1dde2fd91ae28033a09bf009beea49e4?pvs=4)
+
 ## Activity
 
 * Open Source Contribution 2022 Fosslight Hub Mentee
