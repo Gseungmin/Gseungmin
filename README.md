@@ -9,10 +9,11 @@
 
 - 인가서버가 분리되어있을때 토큰 관리 [깃허브](https://github.com/Gseungmin/agent-api-server) [문서화](https://jseungmin.notion.site/LLM-1dde2fd91ae28033a09bf009beea49e4?pvs=4)
 
-## AI 스터디
-- [임베딩 성능 개선을 통해 RAG 성능 개선](https://jseungmin.notion.site/RAG-1aee2fd91ae28088b3d8dd58593b92c7?pvs=4)
-- [History 및 FewShot을 통해 LLM 응답 개선](https://jseungmin.notion.site/RAG-LLM-1aee2fd91ae280c9ab89e3a429d9dbbe?pvs=4)
-- [랭그래프를 통한 유연한 LLM 구조 학습](https://jseungmin.notion.site/RAG-LangGraph-LLM-1e2e2fd91ae28029a95ee2d2f737bfc9?pvs=4)
+- 랭그래프를 활용한 AI 서비스 [깃허브](https://github.com/Gseungmin/interiview) [문서화](https://jseungmin.notion.site/1e3e2fd91ae280fb99adfa0ac3d4cb06?pvs=4)
+
+## 포트폴리오
+[포트폴리오 링크](https://github.com/user-attachments/files/19934884/_2025_03_14.7.1.pdf)
+
 
 ## Activity
 
