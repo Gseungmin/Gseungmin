@@ -1,5 +1,5 @@
 ## Project
-1️⃣ 레디스 메시지큐 + ACK 패턴을 활용한 데이터 동기화 [임시 깃허브](https://github.com/Gseungmin/naver-submit-lubdate) [문서화](https://jseungmin.notion.site/1b0e2fd91ae280ed9a19e80d486f1d13?pvs=4)
+1️⃣ 레디스 메시지큐 + ACK 패턴을 활용한 데이터 동기화 [임시 깃허브](https://github.com/Gseungmin/naver-submit-lubdate/pull/1) [문서화](https://jseungmin.notion.site/1b0e2fd91ae280ed9a19e80d486f1d13?pvs=4)
 
 2️⃣ 비트 연산을 통한 커플 코드 생성 성능 개선 [임시 깃허브](https://github.com/Gseungmin/naver-submit-lubdate) [문서화](https://jseungmin.notion.site/1afe2fd91ae28091a31bedecbe5cd92a?pvs=4)
 
