@@ -13,6 +13,8 @@
 
 - Gap-based numbering을 통한 플레이리스트 순서 정보 관리 [깃허브](https://github.com/Gseungmin/playlist/pull/4) [문서화](https://jseungmin.notion.site/Gap-based-numbering-1f1e2fd91ae28026be54f19c9c00b704?pvs=4)
 
+- 인기 플레이리스트와 비인기 플레이리스트 캐시 관리 [깃허브](https://github.com/Gseungmin/playlist/pull/6) [문서화](https://jseungmin.notion.site/1f4e2fd91ae28009b34cc633b6e45a44?pvs=4)
+
 - 분산락을 통한 동시성 제어 및 쿼리 튜닝을 통한 성능 최적화 [깃허브](https://github.com/Gseungmin/playlist/pull/5) [문서화](https://jseungmin.notion.site/1f3e2fd91ae28011bc48ccea953c5223?pvs=4)
 
 - LangGraph 활용한 AI 면접 서비스 [깃허브](https://github.com/Gseungmin/interiview) [문서화](https://jseungmin.notion.site/1e3e2fd91ae280fb99adfa0ac3d4cb06?pvs=4)
