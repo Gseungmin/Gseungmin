@@ -19,6 +19,8 @@
 
 🔟 LangGraph 활용한 AI 면접 서비스 [깃허브](https://github.com/Gseungmin/interiview) [문서화](https://jseungmin.notion.site/1e3e2fd91ae280fb99adfa0ac3d4cb06?pvs=4)
 
+1️⃣1️⃣ 내근처 병원 정보 조회 서비스 [깃허브](https://github.com/Gseungmin/gist/pull/1) [문서화](https://jseungmin.notion.site/212e2fd91ae28057b009ff01298597fc)
+
 ## 포트폴리오
 [포트폴리오 링크](https://github.com/user-attachments/files/19934884/_2025_03_14.7.1.pdf)
 
